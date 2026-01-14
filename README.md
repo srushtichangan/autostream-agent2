@@ -2,13 +2,13 @@
 
 ## 1. How to Run the Project
 
-1. Create virtual environment (optional)
+## How to Run Locally
+1. Clone the repository
 2. Install dependencies:
    pip install -r requirements.txt
-3. Run the agent:
+3. Set OPENAI_API_KEY
+4. Run:
    python main.py
-
----
 
 ## 2. Architecture Explanation
 
